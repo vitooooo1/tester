@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/v1smz/universal-aimlock/main/script.txt'))()
